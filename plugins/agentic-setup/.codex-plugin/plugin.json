@@ -1,6 +1,6 @@
 {
   "name": "agentic-setup",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "description": "Explicit workflow skills: plan interview, critic loop, pair programming, adversarial audit, deep review, handover, offload, preserve, and suggest.",
   "author": {
     "name": "Zeliboba"

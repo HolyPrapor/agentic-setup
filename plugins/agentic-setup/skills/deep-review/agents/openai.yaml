@@ -2,4 +2,4 @@ interface:
   display_name: "Deep Review"
   short_description: "Review changes for necessity and consequence"
 policy:
-  allow_implicit_invocation: true
+  allow_implicit_invocation: false
