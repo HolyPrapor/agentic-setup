@@ -1,0 +1,20 @@
+{
+  "name": "agentic-setup",
+  "version": "0.2.0",
+  "description": "Explicit workflow skills: plan interview, critic loop, pair programming, adversarial audit, deep review, handover, offload, preserve, and suggest.",
+  "author": {
+    "name": "Zeliboba"
+  },
+  "license": "MIT",
+  "keywords": ["workflow", "skills", "review", "subagents", "planning"],
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Agentic Setup",
+    "shortDescription": "Engineering directives and workflow skills",
+    "longDescription": "Bundles explicit-only workflow skills for planning interviews, critic loops, pair programming, adversarial audits, deep review, handover, offload, preservation, and design options.",
+    "developerName": "Zeliboba",
+    "category": "Productivity",
+    "capabilities": ["Instructions"],
+    "defaultPrompt": "Interview me to align on a plan."
+  }
+}

@@ -1,0 +1,6 @@
+interface:
+  display_name: "Preserve"
+  short_description: "Record durable project knowledge"
+policy:
+  allow_implicit_invocation: false
+

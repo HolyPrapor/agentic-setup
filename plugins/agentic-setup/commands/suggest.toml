@@ -1,0 +1,3 @@
+description = "Suggest up to 3 implementation options"
+prompt = "Use the $suggest skill to present up to 3 implementation or design options with trade-offs."
+

@@ -1,0 +1,3 @@
+description = "Execute a plan hunk by hunk with review"
+prompt = "Use the $pair skill to execute the existing plan one small logical hunk at a time, stopping for my review after each hunk."
+

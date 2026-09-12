@@ -1,0 +1,6 @@
+interface:
+  display_name: "Suggest"
+  short_description: "Up to 3 design options with trade-offs"
+policy:
+  allow_implicit_invocation: false
+

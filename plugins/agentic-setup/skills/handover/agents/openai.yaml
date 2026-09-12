@@ -1,0 +1,6 @@
+interface:
+  display_name: "Handover"
+  short_description: "Compact summary for a fresh session"
+policy:
+  allow_implicit_invocation: false
+

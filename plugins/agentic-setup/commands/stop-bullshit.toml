@@ -1,0 +1,3 @@
+description = "Audit the previous response for hallucinations"
+prompt = "Use the $stop-bullshit skill to have an adversarial subagent audit my last response."
+

@@ -1,0 +1,6 @@
+interface:
+  display_name: "Pair"
+  short_description: "Implement a plan hunk by hunk"
+policy:
+  allow_implicit_invocation: false
+

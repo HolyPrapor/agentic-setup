@@ -1,0 +1,6 @@
+interface:
+  display_name: "Offload"
+  short_description: "Parallel independent subagent runs"
+policy:
+  allow_implicit_invocation: false
+

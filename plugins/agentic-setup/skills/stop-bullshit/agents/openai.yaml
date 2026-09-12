@@ -1,0 +1,6 @@
+interface:
+  display_name: "Stop Bullshit"
+  short_description: "Audit the last answer for hallucinations"
+policy:
+  allow_implicit_invocation: false
+

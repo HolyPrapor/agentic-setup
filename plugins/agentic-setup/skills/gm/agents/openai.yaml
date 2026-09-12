@@ -1,0 +1,6 @@
+interface:
+  display_name: "GM"
+  short_description: "Interview to align on a plan"
+policy:
+  allow_implicit_invocation: false
+

@@ -1,0 +1,3 @@
+description = "Interview me to align on a plan"
+prompt = "Use the $gm skill: interview me relentlessly about the task until we share one understanding, recommending an answer for each question."
+
