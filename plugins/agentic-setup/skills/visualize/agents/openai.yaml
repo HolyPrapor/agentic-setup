@@ -1,0 +1,3 @@
+interface:
+  display_name: "Visualize"
+  short_description: "Explain code and architecture with compact visuals"

@@ -1,0 +1,2 @@
+description = "Explain code or architecture visually"
+prompt = "Use the $visualize skill to explain the requested code, architecture, or behavior with a compact structural view."
